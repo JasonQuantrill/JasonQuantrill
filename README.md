@@ -20,9 +20,9 @@ I'm a passionate 4th-year Computer Science student specializing in Machine Learn
 -->
 ### 📈 Projects Highlight:
 
-- **Grid-world Games**: Manually implemented a variety of Reinforcement Learning algorithms to deepen my understanding of how and why they work.
-- **Sentiment Analysis Tool**: Created a tool using Python and TensorFlow that analyzes and predicts sentiment from social media data.
-- **E-commerce Full-Stack Application**: Built a fully functional e-commerce website using React for the frontend and Node.js for the backend.
+- **Grid-world Games**: Manually implemented a variety of Reinforcement Learning Algorithms using Python and Jupyter to deepen my understanding of how and why they work.
+- **3D Zeppelin Shooter**: Created a 3D flying game world from scratch using C++, freeglut, and glew.
+- **Networking Algorithms**: Built dynamic visual representations of Bellman-Ford and Dijkstra's algorithms using HTML and Javascript.
 
 ### 📚 Continuous Learning:
 
@@ -32,7 +32,7 @@ I'm a passionate 4th-year Computer Science student specializing in Machine Learn
 ### 🤝 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jasonquantrill/)
-- 📧 Email: Jason.Quantrill@torontomu.ca
+- 📧 Jason.Quantrill@torontomu.ca
 - 📄 [Resume](https://drive.google.com/file/d/1HXMX0QJigFmPiYEwgBSFDEtSJdhaZFjO/view?usp=sharing)
 
 ### 🌱 I'm currently looking for opportunities where I can contribute, learn and grow. If you have an exciting project or an interesting role in your team, let's chat!
