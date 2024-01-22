@@ -18,11 +18,11 @@ I'm a passionate 4th-year Computer Science student specializing in Machine Learn
 - **Tools**: Git, Docker, Kubernetes, AWS, Azure.
 - **Databases**: MySQL, MongoDB, PostgreSQL.
 -->
-### 📈 Projects Highlight:
+### 📈 Projects Highlights:
 
 - **Grid-world Games**: Manually implemented a variety of Reinforcement Learning Algorithms using Python and Jupyter to deepen my understanding of how and why they work.
 - **3D Zeppelin Shooter**: Created a 3D flying game world from scratch using C++, freeglut, and glew.
-- **Networking Algorithms**: Built dynamic visual representations of Bellman-Ford and Dijkstra's algorithms using HTML and Javascript.
+- **Networking Algorithms**: Built dynamic visual representations of Bellman-Ford and Dijkstra's algorithms using Javascript, HTML, and CSS.
 
 ### 📚 Continuous Learning:
 
