@@ -47,17 +47,17 @@ I'm a passionate 4th-year Computer Science student specializing in Machine Learn
 - 🌱 **Learning**: Actively enhancing my skills in advanced ML algorithms, data structures, and full-stack development.
 - 🚀 **Interests**: I am deeply fascinated by the potential of AI to solve real-world problems and love exploring emerging technologies.
 - 🌟 **Goal**: Aiming to contribute to innovative projects that make a positive impact on society.
-
+<--
 ### 💻 Tech Stack:
 
 - **Languages**: Proficient in Python, Java, C++, and JavaScript.
 - **Frameworks & Libraries**: TensorFlow, PyTorch, React, Node.js.
 - **Tools**: Git, Docker, Kubernetes, AWS, Azure.
 - **Databases**: MySQL, MongoDB, PostgreSQL.
-
+-->
 ### 📈 Projects Highlight:
 
-- **AI-Powered Chatbot**: Developed a chatbot using NLP techniques that can understand and respond to user queries in a human-like manner.
+- **Grid-world Games**: Manually implemented a variety of Reinforcement Learning algorithms to deepen my understanding of how and why they work.
 - **Sentiment Analysis Tool**: Created a tool using Python and TensorFlow that analyzes and predicts sentiment from social media data.
 - **E-commerce Full-Stack Application**: Built a fully functional e-commerce website using React for the frontend and Node.js for the backend.
 
@@ -76,7 +76,5 @@ I'm a passionate 4th-year Computer Science student specializing in Machine Learn
 ### 🌱 I'm currently looking for opportunities where I can contribute, learn and grow. If you have an exciting project or an interesting role in your team, let's chat!
 
 Thank you for stopping by, and I look forward to connecting with you!
-
-_Last Updated: January 2024_
 
 
