@@ -39,15 +39,15 @@ You can reach me by emailing me at jason.quantrill@torontomu.ca or messaging me 
 
 ## Welcome to My GitHub! 🚀
 
-I'm a passionate 4th-year Computer Science student specializing in Machine Learning, but my curiosity extends to every corner of the tech universe!
+I'm a passionate 4th-year Computer Science student specializing in Machine Learning, but I'm interested in all aspects of technology and software development!
 
 ### 🤖 About Me:
 
-- 🎓 **Education**: Currently pursuing my Bachelor's degree in Computer Science with a focus on Machine Learning.
-- 🌱 **Learning**: Actively enhancing my skills in advanced ML algorithms, data structures, and full-stack development.
+- 🎓 **Education**: Currently pursuing my Bachelor's degree in Computer Science with a special interest in Machine Learning.
+- 🌱 **Learning**: Actively enhancing my skills in computer vision, graphics, web development, and Internet of Things systems.
 - 🚀 **Interests**: I am deeply fascinated by the potential of AI to solve real-world problems and love exploring emerging technologies.
 - 🌟 **Goal**: Aiming to contribute to innovative projects that make a positive impact on society.
-<--
+<!--
 ### 💻 Tech Stack:
 
 - **Languages**: Proficient in Python, Java, C++, and JavaScript.
@@ -64,13 +64,12 @@ I'm a passionate 4th-year Computer Science student specializing in Machine Learn
 ### 📚 Continuous Learning:
 
 - 📖 Currently reading: "Deep Learning" by Ian Goodfellow, Yoshua Bengio, and Aaron Courville.
-- 📝 Regularly attending workshops and webinars on the latest trends in AI and ML.
+- 📝 Regularly attending workshops and hackathons to continue developing my skillset.
 
 ### 🤝 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- 🐦 [Twitter](https://twitter.com/your-twitter-handle)
-- 📧 Email: your-email@example.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/jasonquantrill/)
+- 📧 Email: Jason.Quantrill@torontomu.ca
 - 📄 [Resume](Link-to-your-resume.pdf)
 
 ### 🌱 I'm currently looking for opportunities where I can contribute, learn and grow. If you have an exciting project or an interesting role in your team, let's chat!
