@@ -6,8 +6,8 @@ I'm a passionate 4th-year Computer Science student specializing in Machine Learn
 
 ### 🤖 About Me:
 
-- 🎓 **Education**: Currently pursuing my Bachelor's degree in Computer Science with a special interest in Machine Learning.
-- 🌱 **Learning**: Actively enhancing my skills in Data Science, Computer Vision, Graphics, Web Development, and Internet of Things systems.
+- 🎓 **Education**: Currently finishing my Bachelor's degree in Computer Science with a special interest in Machine Learning.
+- 🌱 **Learning**: Actively enhancing my skills in Data Science, Computer Vision, Graphics, Virtual Reality, and Internet of Things systems.
 - 🚀 **Interests**: I am deeply fascinated by the potential of AI to solve real-world problems and love exploring emerging technologies.
 - 🌟 **Goal**: Aiming to contribute to innovative projects that make a positive impact on society.
 <!--
