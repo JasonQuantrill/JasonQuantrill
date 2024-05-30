@@ -2,11 +2,11 @@
 
 ## Welcome to My GitHub! 🚀
 
-I'm a passionate 4th-year Computer Science student specializing in Machine Learning, but I'm interested in all aspects of technology and software development!
+I'm a passionate Master's Computer Science student interested in all aspects of technology and software development!
 
 ### 🤖 About Me:
 
-- 🎓 **Education**: Currently finishing my Bachelor's degree in Computer Science with a special interest in Machine Learning.
+- 🎓 **Education**: Completed a 4 year Computer Science degree, a Robotics diploma, and currently finishing my Master's degree in Computer Science.
 - 🌱 **Learning**: Actively enhancing my skills in Data Science, Computer Vision, Graphics, Virtual Reality, and Internet of Things systems.
 - 🚀 **Interests**: I am deeply fascinated by the potential of AI to solve real-world problems and love exploring emerging technologies.
 - 🌟 **Goal**: Aiming to contribute to innovative projects that make a positive impact on society.
